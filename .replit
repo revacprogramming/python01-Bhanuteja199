@@ -1,0 +1,2 @@
+language = "bash"
+run = "python ActivitySet01/problem02.py"
